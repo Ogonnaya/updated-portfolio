@@ -1,5 +1,4 @@
 # Updated Portfolio
-LIRI is a language interpretation and recognition interface that will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
 
 ## Getting Started
 
