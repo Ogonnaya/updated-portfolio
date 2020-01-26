@@ -16,6 +16,6 @@
 * jQuery
 
 ## Editor
-* **[Ogonnaya Oshagbemi](https://github.com/PurpleBooth)**
+* **[Ogonnaya Oshagbemi](https://github.com/Ogonnaya)**
 
 ## Acknowledgements
